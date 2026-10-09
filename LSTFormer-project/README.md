@@ -48,6 +48,9 @@ LSTFormer-project/
 ├── models/
 
 ├── test.py
+
+├── dataset/
+
 ...
 
 
@@ -90,7 +93,7 @@ LSTFormer-project/
 
 
 
-1\.  Place your low-light test images in the `images/` directory.
+1\.  Place your low-light test images in the `dataset/` directory.
 
 2\.  Make sure you have downloaded the pre-trained models and placed them in the `checkpoints/` directory as instructed above.
 
