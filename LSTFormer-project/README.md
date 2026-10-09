@@ -35,21 +35,15 @@ Our pre-trained models are too large for GitHub. You can download them from the 
 \*   \*\*\[LSTFormer on LOL-v1]:\*\* \[通过网盘分享的文件：v1_best_model.pth
 链接: https://pan.baidu.com/s/1AWLDltFO2OXguPdx5ob1sQ 提取码: r34w]
 
-\*   \*\*\[LSTFormer on LOL-v2real]:\*\* \[通过网盘分享的文件：v2real_best_model.pth
-链接: https://pan.baidu.com/s/1T8v3oLZrXoFckuOO-bXJWA 提取码: 3ub8]
 
-\*   \*\*\[LSTFormer on LOL-v2syn]:\*\* \[通过网盘分享的文件：v2syn_best_model.pth
-链接: https://pan.baidu.com/s/1qnWxl8h9scEdgzE--IsCdg 提取码: cqrn]
 
 \*\*Action Required:\*\* After downloading, please create a `weights/` directory inside the project folder and place the downloaded `.pth` files into it. The final structure should look like this:
 
 LSTFormer-project/
 
-├── weights/
+├── checkpoints/
 
-│ ├── lstformer\_lolv1.pth
-
-│ └── lstformer\_lolv2.pth
+│ ├── best_model.pth
 
 ├── models/
 
