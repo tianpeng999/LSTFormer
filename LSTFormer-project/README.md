@@ -37,7 +37,7 @@ Our pre-trained models are too large for GitHub. You can download them from the 
 
 
 
-\*\*Action Required:\*\* After downloading, please create a `weights/` directory inside the project folder and place the downloaded `.pth` files into it. The final structure should look like this:
+\*\*Action Required:\*\* After downloading, please create a `checkpoints/` directory inside the project folder and place the downloaded `.pth` files into it. The final structure should look like this:
 
 LSTFormer-project/
 
@@ -91,13 +91,13 @@ LSTFormer-project/
 
 1\.  Place your low-light test images in the `images/` directory.
 
-2\.  Make sure you have downloaded the pre-trained models and placed them in the `weights/` directory as instructed above.
+2\.  Make sure you have downloaded the pre-trained models and placed them in the `checkpoints/` directory as instructed above.
 
 3\.  Run the inference script. For example, to use the model trained on LOL-v1:
 
 &#x20;   ```bash
 
-&#x20;   python test.py --model\_path weights/lstformer\_lolv1.pth --input\_dir images/ --output\_dir results/
+&#x20;   python test.py --model\_path checkpoints/best_model.pth --input\_dir images/ --output\_dir results/
 
 &#x20;   ```
 
