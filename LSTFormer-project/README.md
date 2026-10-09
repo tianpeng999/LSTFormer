@@ -65,7 +65,7 @@ LSTFormer-project/
 
 &#x20;   git clone https://github.com/tianpeng999/LSTFormer.git
 
-&#x20;   cd LSTFormer
+&#x20;   cd LSTFormer-project
 
 &#x20;   ```
 
