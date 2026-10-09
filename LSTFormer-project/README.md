@@ -10,7 +10,7 @@ This is the official repository for the paper "Low-Light Image Enhancement Netwo
 
 
 
-\## Code Release Status
+## Code Release Status
 
 \- \[x] Model Architecture (in `models/`)
 
@@ -24,7 +24,7 @@ This is the official repository for the paper "Low-Light Image Enhancement Netwo
 
 
 
-\## Pre-trained Models
+## Pre-trained Models
 
 
 
@@ -51,7 +51,7 @@ LSTFormer-project/
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -85,7 +85,7 @@ LSTFormer-project/
 
 
 
-\## How to Test (Inference)
+## How to Test (Inference)
 
 
 
@@ -105,7 +105,7 @@ LSTFormer-project/
 
 
 
-\## Citation
+## Citation
 
 
 
