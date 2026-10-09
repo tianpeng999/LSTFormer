@@ -12,15 +12,15 @@ This is the official repository for the paper "Low-Light Image Enhancement Netwo
 
 ## Code Release Status
 
-\- \[x] Model Architecture (in `models/`)
+[√] Model Architecture (in `models/`)
 
-\- \[x] Inference Code (`test.py`)
+[√] Inference Code (`test.py`)
 
-\- \[x] Pre-trained Models (links below)
+[√] Pre-trained Models (links below)
 
-\- \[x] Environment Configuration (`requirements.txt`)
+[√] Environment Configuration (`requirements.txt`)
 
-\- \[ ] Training Code (to be released upon paper acceptance)
+[ ] Training Code (to be released upon paper acceptance)
 
 
 
